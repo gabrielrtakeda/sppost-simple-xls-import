@@ -10,4 +10,5 @@ Update database configurations on `.env` file:
 - DB_PASSWORD
 
 Run `php artisan migrate` to create tables on database.
+
 Run `php artisan serve` to up Laravel standalone server.
