@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "1a7a97244534299bd77ca3d32f33fea5",
-    "content-hash": "1efc766c25d1445777a1976e7454d7ae",
+    "hash": "344b46a6120b95909c7d23cedeeea544",
+    "content-hash": "74fd20781e44c210ce20325b9c2ca68d",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -853,42 +853,6 @@
                 "random"
             ],
             "time": "2016-03-18 20:34:03"
-        },
-        {
-            "name": "phpexcel/phpexcel",
-            "version": "v1.7.7",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/ddeboer/phpexcel.git",
-                "reference": "de9c8871a87ce9be354d35f5e966dd65a0c7c6d2"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/ddeboer/phpexcel/zipball/de9c8871a87ce9be354d35f5e966dd65a0c7c6d2",
-                "reference": "de9c8871a87ce9be354d35f5e966dd65a0c7c6d2",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">5.2.0"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-0": {
-                    "PHPExcel": "Classes"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "GNU"
-            ],
-            "description": "PHPExcel - OpenXML - Create Excel2007 documents in PHP - Spreadsheet engine",
-            "homepage": "http://phpexcel.codeplex.com",
-            "keywords": [
-                "excel",
-                "xls"
-            ],
-            "abandoned": "phpoffice/phpexcel",
-            "time": "2012-09-04 18:29:37"
         },
         {
             "name": "phpoffice/phpexcel",

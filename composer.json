@@ -7,8 +7,6 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*",
-        "phpoffice/phpexcel": "^1.8",
-        "phpexcel/phpexcel": "^1.7",
         "maatwebsite/excel": "~2.1.0"
     },
     "require-dev": {
